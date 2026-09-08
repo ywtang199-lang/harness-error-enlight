@@ -1,5 +1,7 @@
 # Harness Error Enlight · 错误启发
 
+简体中文 | [English guide](README.en.md)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub Issues](https://img.shields.io/github/issues/ywtang199-lang/harness-error-enlight)](https://github.com/ywtang199-lang/harness-error-enlight/issues)
 
